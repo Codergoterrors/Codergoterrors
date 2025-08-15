@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Coderx.
-- 👀 I’m interested in Cyber Security.
-- 📫 You can contact me on Instagram ( @coder.x_ ) as well as on Telegram ( @c0d3rx ).
-- ⚡ Hobbies : Playing Chess in free time.
+Hi, I’m Coderx.
+Security-focused developer and learner exploring Web App Security, Bug Bounty Hunting and Automation.
+Passionate about breaking things safely to build them stronger, Documenting findings and sharing actionable resource for the community.
 
 <!---
 Codergoterrors/Codergoterrors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
